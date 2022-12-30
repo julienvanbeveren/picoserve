@@ -1,0 +1,25 @@
+{
+  "name": "picoserve",
+  "version": "0.0.0",
+  "description": "An absolute bare bottom webserver framework",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julienvanbeveren/picoserve.git"
+  },
+  "keywords": [
+    "webserver",
+    "minimal",
+    "typescript"
+  ],
+  "author": "Julien Van Beveren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julienvanbeveren/picoserve/issues"
+  },
+  "homepage": "https://github.com/julienvanbeveren/picoserve#readme"
+}
